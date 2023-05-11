@@ -1,0 +1,42 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Rest API GET Endpoint Functionality Scenarios",
+    "line": 2,
+    "id": "rest-api-get-endpoint-functionality-scenarios",
+    "tags": [
+      {
+        "name": "@API",
+        "line": 1
+      }
+    ],
+    "uri": "Rest_get.feature",
+    "elements": [
+      {
+        "id": "rest-api-get-endpoint-functionality-scenarios;get-new-user-data",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "GET new user data",
+        "tags": [
+          {
+            "name": "@API",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "Get Call to url \"https://reqres.in/api/users?pages=2\"",
+            "result": {
+              "status": "undefined",
+              "duration": 75000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

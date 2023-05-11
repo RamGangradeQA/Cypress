@@ -1,0 +1,62 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "login validation",
+    "line": 1,
+    "id": "login-validation",
+    "tags": [],
+    "uri": "OrangeHrm.feature",
+    "elements": [
+      {
+        "id": "login-validation;login-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "login page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Go to login page",
+            "result": {
+              "status": "passed",
+              "duration": 3258000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "enter username and password",
+            "result": {
+              "status": "passed",
+              "duration": 826000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "click on the login button",
+            "result": {
+              "status": "passed",
+              "duration": 1319000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "exit",
+            "result": {
+              "status": "passed",
+              "duration": 472000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+{"total":3,"items":[{"uid":"f61c9974ba11ed39e018a8a39cc59404","name":"Login to Application","statistic":{"failed":0,"broken":0,"skipped":0,"passed":5,"unknown":0,"total":5}},{"uid":"8b7eab4a67cd9cea10cc616369b2b78c","name":"login validation","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

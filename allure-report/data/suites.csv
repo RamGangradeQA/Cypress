@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 09 13:53:59 IST 2023","Tue May 09 13:54:08 IST 2023","8484","","Login to Application","","","","Valid Login (example #1)",""
+"passed","Tue May 09 13:54:11 IST 2023","Tue May 09 13:54:15 IST 2023","3509","","Login to Application","","","","Invalid Login (example #2)",""
+"passed","Tue May 09 13:54:44 IST 2023","Tue May 09 13:54:51 IST 2023","6831","","login validation","","","","login page",""
+"passed","Tue May 09 13:54:08 IST 2023","Tue May 09 13:54:11 IST 2023","3654","","Login to Application","","","","Invalid Login (example #1)",""
+"passed","Tue May 09 13:54:15 IST 2023","Tue May 09 13:54:18 IST 2023","3386","","Login to Application","","","","Invalid Login (example #3)",""
+"failed","Tue May 09 13:01:47 IST 2023","Tue May 09 13:01:54 IST 2023","6975","","checkbox","","","","navigate to page",""
+"passed","Tue May 09 13:54:18 IST 2023","Tue May 09 13:54:26 IST 2023","8176","","Login to Application","","","","Reset Password",""
