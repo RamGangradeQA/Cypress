@@ -22,7 +22,7 @@
             "name": "Go to login page",
             "result": {
               "status": "passed",
-              "duration": 3258000000
+              "duration": 3531000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "enter username and password",
             "result": {
               "status": "passed",
-              "duration": 826000000
+              "duration": 1207000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "click on the login button",
             "result": {
               "status": "passed",
-              "duration": 1319000000
+              "duration": 2321000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "exit",
             "result": {
               "status": "passed",
-              "duration": 472000000
+              "duration": 549000000
             }
           }
         ]
