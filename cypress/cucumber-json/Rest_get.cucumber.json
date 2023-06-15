@@ -32,7 +32,7 @@
             "name": "Get Call to url \"https://reqres.in/api/users?pages=2\"",
             "result": {
               "status": "undefined",
-              "duration": 75000000
+              "duration": 145000000
             }
           }
         ]
